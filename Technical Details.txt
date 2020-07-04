@@ -1,0 +1,25 @@
+Minimum Viable Product:
+- CRUD
+- Deadline
+- Task Description Page
+- Current List Display
+- Completed List Display
+
+
+Technology Stack:
+FE: React
+DB: NoSQL/DynamoDB
+BE: Python
+
+
+Tools:
+- AWS DynamoDB
+- AWS EC2 (React)
+- AWS Beanstalk (API)
+- GitHub (Version Control)
+- IDEs
+
+
+Testing:
+- Unit Testing
+- Functional Testing
