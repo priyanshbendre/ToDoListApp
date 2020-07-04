@@ -1,0 +1,27 @@
+Database:
+
+User:
+- UID
+- username
+- password
+- email
+- phone number
+
+
+Task:
+- UID
+- TID
+- Title/Summary
+- Task Desc
+- Deadline
+- Status (Completed/Open)
+- Priority
+- Creation Date time
+- Update Date time
+- Completion Date time
+
+
+Changes:
+- HID
+- HISTORY DATE
+- all task columns
